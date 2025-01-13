@@ -1,4 +1,4 @@
-package guru.springframework.springairag;
+package ro.giohnny.springairag;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
